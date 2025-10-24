@@ -1,0 +1,6 @@
+[submodule "Assets/GDK"]
+	path = Assets/GDK
+	url = https://github.com/willywithcode/GameDevelopmentKit.git
+[submodule "Assets/ThirdPartyService"]
+	path = Assets/ThirdPartyService
+	url = git@github.com:willywithcode/ThirdPartyService.git
